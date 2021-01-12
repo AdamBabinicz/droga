@@ -12,6 +12,7 @@ import {
   Img,
 } from "./InfoSectionElements";
 import { Container, Button } from "../../globalStyles";
+import mapa from "../../mapa.pdf";
 
 const InfoSection = ({
   primary,
@@ -50,7 +51,7 @@ const InfoSection = ({
                 <Subtitle lightTextDesc={lightTextDesc}>
                   {description3}
                 </Subtitle>
-                <Link to="/okupacja">
+                <Link to={mapa} target="_blank">
                   <Button big fontBig primary={primary}>
                     {buttonLabel}
                   </Button>

@@ -11,7 +11,7 @@ export const homeObjOne = {
   lightTextDesc: true,
   buttonLabel: "Zobacz więcej",
   description:
-    "Mój ojciec Franciszek Gutkowski urodził się w 1888 r. we wsi Wawrzyszew, 15 km od Radomia, w pobliżu Wolanowa i Guzowa. Franciszek przysposobił się na stangreta i woził panów wszędzie, gdzie mu kazali. Oprócz tego parał się tak jak ojciec stolarką i ciesielką.",
+    "Mój ojciec Franciszek Gutkowski urodził się w 1888 r. we wsi Wawrzyszew, 15 km od Radomia, w pobliżu Wolanowa i Guzowa. Franciszek przysposobił się na stangreta i woził panów wszędzie, gdzie mu kazali. Oprócz tego parał się tak jak ojciec, stolarką i ciesielką.",
   description1:
     "Franciszek podjął pracę w hucie szkła i pracował tam do jej likwidacji w 1930 r. Wówczas przenieśli się na ul. Mleczną na Zamłyniu. Tam urodzili się Witek, Józek, Rysiek i Edek. Ojciec pracował dorywczo jako stolarz i cieśla. W końcu znalazł stałą pracę przy budowie linii kolejowej Radom-Warszawa. Kierował pracą grupy więźniów, z którymi potrafił się porozumieć. Pamiętam, że wraz z ojcem byłem na otwarciu jednotorowej wówczas linii kolejowej z Radomia do Warszawy.",
   description2:

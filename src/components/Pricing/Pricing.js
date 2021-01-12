@@ -32,7 +32,7 @@ function Pricing() {
         <PricingWrapper>
           <PricingHeading>Dzieci Zosi</PricingHeading>
           <PricingContainer>
-            <PricingCard to="/sign-up">
+            <PricingCard>
               <PricingCardInfo>
                 <img src={img1} />
                 <PricingCardIcon>{/* <GiRock /> */}</PricingCardIcon>
@@ -47,7 +47,7 @@ function Pricing() {
                 {/* <Button primary>Choose Plan</Button> */}
               </PricingCardInfo>
             </PricingCard>
-            <PricingCard to="/sign-up">
+            <PricingCard>
               <PricingCardInfo>
                 {/* <GiCrystalBars /> */} <img src={img2} />
                 <PricingCardIcon></PricingCardIcon>
@@ -62,7 +62,7 @@ function Pricing() {
                 {/* <Button primary>Choose Plan</Button> */}
               </PricingCardInfo>
             </PricingCard>
-            <PricingCard to="/sign-up">
+            <PricingCard>
               <PricingCardInfo>
                 {/* <GiCutDiamond /> */} <img src={img2} />
                 <PricingCardIcon></PricingCardIcon>

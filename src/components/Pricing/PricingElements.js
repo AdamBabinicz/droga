@@ -51,6 +51,7 @@ export const PricingCard = styled(Link)`
   text-decoration: none;
   border-radius: 4px;
   transition: all 0.3s ease-out;
+  cursor: context-menu;
 
   &:nth-child(2) {
     margin: 24px;
