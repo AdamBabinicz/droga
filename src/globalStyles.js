@@ -37,7 +37,7 @@ export const Button = styled.button`
 
   &:hover {
     background: rgba(255, 255, 255, 0.911);
-    background-color: ${({ primary }) => (primary ? "#e7e7e7" : " #858585")};
+    background: ${({ primary }) => (primary ? "#e7e7e7" : " #858585")};
     color: #858585;
   }
 
