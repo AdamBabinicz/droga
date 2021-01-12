@@ -44,7 +44,7 @@ export const homeObjThree = {
   description1:
     "W tym czasie mieszkaliśmy na ul. Młynarskiej w pustym domu należącym do księdza. Z inicjatywy matki zajęliśmy bez zgody dwa pokoje. Właściciel chciał nas wygnać, ale ojciec załatwił u Niemców zezwolenie na zamieszkiwanie w tym domu. Życie pod okupacją niemiecką było bardzo ciężkie.",
   description2:
-    "Józek wyjechał po kryjomu do Niemiec, to samo zrobili Edek i Rysiek. Rodzina się zmniejszyła o 4 osoby, ponieważ jak już wspomniałem, wcześniej zmarła Janka. Rodzicom łatwiej było utrzymać siebie i Zosię z dziećmi. Kiedy nadażyła się okazja, rodzice przenieśli się do pokoju o powierzchni 25 m² w budynku na Zamłyniu, gdzie było podpiwniczenie i bieżąca woda. W tym mieszkaniu uszczuplona już rodzina przetrwała do zakończenia wojny.",
+    "wyjechałem po kryjomu do Niemiec, to samo zrobili Edek i Rysiek. Rodzina się zmniejszyła o 4 osoby, ponieważ jak już wspomniałem, wcześniej zmarła Janka. Rodzicom łatwiej było utrzymać siebie i Zosię z dziećmi. Kiedy nadażyła się okazja, rodzice przenieśli się do pokoju o powierzchni 25 m² w budynku na Zamłyniu, gdzie było podpiwniczenie i bieżąca woda. W tym mieszkaniu uszczuplona już rodzina przetrwała do zakończenia wojny.",
   buttonLabel: "Zobacz więcej",
   imgStart: "start",
   img: img1,
