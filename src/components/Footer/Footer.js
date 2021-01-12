@@ -41,9 +41,9 @@ const Footer = () => {
         </FooterSubText>
       </FooterSubscription>
       <FooterLinksContainer>
-        <FooterLinksWrapper>
+        {/* <FooterLinksWrapper>
           <FooterLinkItems>
-            <FooterLinkTitle>About Us</FooterLinkTitle>
+            <FooterLinkTitle>O mnie</FooterLinkTitle>
             <FooterLink to="/sign-up">How it works</FooterLink>
             <FooterLink to="/">Testimonials</FooterLink>
             <FooterLink to="/">Careers</FooterLink>
@@ -51,27 +51,34 @@ const Footer = () => {
             <FooterLink to="/">Terms of Service</FooterLink>
           </FooterLinkItems>
           <FooterLinkItems>
-            <FooterLinkTitle>Contact Us</FooterLinkTitle>
+            <FooterLinkTitle>Kontakt</FooterLinkTitle>
             <FooterLink to="/">Contact</FooterLink>
             <FooterLink to="/">Support</FooterLink>
             <FooterLink to="/">Destinations</FooterLink>
             <FooterLink to="/">Sponsorships</FooterLink>
           </FooterLinkItems>
-        </FooterLinksWrapper>
+        </FooterLinksWrapper> */}
         <FooterLinksWrapper>
-          <FooterLinkItems>
-            <FooterLinkTitle>Videos</FooterLinkTitle>
+          {/* <FooterLinkItems>
+            <FooterLinkTitle>Filmy</FooterLinkTitle>
             <FooterLink to="/">Submit Video</FooterLink>
             <FooterLink to="/">Ambassadors</FooterLink>
             <FooterLink to="/">Agency</FooterLink>
             <FooterLink to="/">Influencer</FooterLink>
-          </FooterLinkItems>
+          </FooterLinkItems> */}
           <FooterLinkItems>
             <FooterLinkTitle>Social Media</FooterLinkTitle>
-            <FooterLink to="/">Instagram</FooterLink>
-            <FooterLink to="/">Facebook</FooterLink>
-            <FooterLink to="/">Youtube</FooterLink>
-            <FooterLink to="/">Twitter</FooterLink>
+            {/* <FooterLink to="/">Instagram</FooterLink> */}
+            <FooterLink
+              to="//www.facebook.com/profile.php?id=100012315634079"
+              target="_blank"
+              aria-label="Facebook"
+              rel="noopener noreferrer"
+            >
+              Facebook
+            </FooterLink>
+            {/* <FooterLink to="/">Youtube</FooterLink>
+            <FooterLink to="/">Twitter</FooterLink> */}
           </FooterLinkItems>
         </FooterLinksWrapper>
       </FooterLinksContainer>
@@ -83,10 +90,15 @@ const Footer = () => {
           </SocialLogo>
           <WebsiteRights>{new Date().getFullYear()}.</WebsiteRights>
           <SocialIcons>
-            <SocialIconLink href="/" target="_blank" aria-label="Facebook">
+            <SocialIconLink
+              href="//www.facebook.com/profile.php?id=100012315634079"
+              target="_blank"
+              aria-label="Facebook"
+              rel="noopener noreferrer"
+            >
               <FaFacebook />
             </SocialIconLink>
-            <SocialIconLink href="/" target="_blank" aria-label="Instagram">
+            {/* <SocialIconLink href="/" target="_blank" aria-label="Instagram">
               <FaInstagram />
             </SocialIconLink>
             <SocialIconLink
@@ -104,7 +116,7 @@ const Footer = () => {
             </SocialIconLink>
             <SocialIconLink href="/" target="_blank" aria-label="LinkedIn">
               <FaLinkedin />
-            </SocialIconLink>
+            </SocialIconLink> */}
           </SocialIcons>
         </SocialMediaWrap>
       </SocialMedia>

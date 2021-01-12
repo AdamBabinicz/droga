@@ -21,6 +21,9 @@ const InfoSection = ({
   lightTextDesc,
   buttonLabel,
   description,
+  description1,
+  description2,
+  description3,
   headLine,
   lightText,
   topLine,
@@ -38,6 +41,15 @@ const InfoSection = ({
                 <TopLine lightTopLine={lightTopLine}>{topLine}</TopLine>
                 <Heading lightText={lightText}>{headLine}</Heading>
                 <Subtitle lightTextDesc={lightTextDesc}>{description}</Subtitle>
+                <Subtitle lightTextDesc={lightTextDesc}>
+                  {description1}
+                </Subtitle>
+                <Subtitle lightTextDesc={lightTextDesc}>
+                  {description2}
+                </Subtitle>
+                <Subtitle lightTextDesc={lightTextDesc}>
+                  {description3}
+                </Subtitle>
                 <Link to="/okupacja">
                   <Button big fontBig primary={primary}>
                     {buttonLabel}

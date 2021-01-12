@@ -40,7 +40,11 @@ export const homeObjThree = {
     "W czasie okupacji na barkach ojca i matki byli Józek, Edek, Rysiek, Zosia, Adaś i Władek",
   headLine: "Radom, ul. Żeromskiego (Reichsstrasse)",
   description:
-    "Ojciec pracował przy wojsku niemieckim i na jego potrzeby wykonywał przedmioty z drewna: stoły i inne. Dzięki temu przynosił codziennie do domu chleb, masło i inne jedzenie. W pomieszczeniach, gdzie kwaterowali Niemcy znajdowały się zgromadzone do spalenia książki z bibliotek. Ojcu udało się wybrać i przemycić do domu kilka książek z utworami Sienkiewicza, Mickiewicza i innych autorów. W tym czasie mieszkaliśmy na ul. Młynarskiej w pustym domu należącym do księdza. Z inicjatywy matki zajęliśmy bez zgody dwa pokoje. Właściciel chciał nas wygnać, ale ojciec załatwił u Niemców zezwolenie na zamieszkiwanie w tym domu. Życie pod okupacją niemiecką było bardzo ciężkie. Józek wyjechał po kryjomu do Niemiec, to samo zrobili Edek i Rysiek. Rodzina się zmniejszyła o 4 osoby, ponieważ jak już wspomniałem, wcześniej zmarła Janka. Rodzicom łatwiej było utrzymać siebie i Zosię z dziećmi. Kiedy nadażyła się okazja, rodzice przenieśli się do pokoju o powierzchni 25 m2 w budynku na Zamłyniu, gdzie było podpiwniczenie i bieżąca woda. W tym mieszkaniu uszczuplona już rodzina przetrwała do zakończenia wojny.",
+    "Ojciec pracował przy wojsku niemieckim i na jego potrzeby wykonywał przedmioty z drewna: stoły i inne. Dzięki temu przynosił codziennie do domu chleb, masło i inne jedzenie. W pomieszczeniach, gdzie kwaterowali Niemcy znajdowały się zgromadzone do spalenia książki z bibliotek. Ojcu udało się wybrać i przemycić do domu kilka książek z utworami Sienkiewicza, Mickiewicza i innych autorów.",
+  description1:
+    "W tym czasie mieszkaliśmy na ul. Młynarskiej w pustym domu należącym do księdza. Z inicjatywy matki zajęliśmy bez zgody dwa pokoje. Właściciel chciał nas wygnać, ale ojciec załatwił u Niemców zezwolenie na zamieszkiwanie w tym domu. Życie pod okupacją niemiecką było bardzo ciężkie.",
+  description2:
+    "Józek wyjechał po kryjomu do Niemiec, to samo zrobili Edek i Rysiek. Rodzina się zmniejszyła o 4 osoby, ponieważ jak już wspomniałem, wcześniej zmarła Janka. Rodzicom łatwiej było utrzymać siebie i Zosię z dziećmi. Kiedy nadażyła się okazja, rodzice przenieśli się do pokoju o powierzchni 25 m² w budynku na Zamłyniu, gdzie było podpiwniczenie i bieżąca woda. W tym mieszkaniu uszczuplona już rodzina przetrwała do zakończenia wojny.",
   buttonLabel: "Zobacz więcej",
   imgStart: "start",
   img: img1,
