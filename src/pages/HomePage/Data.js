@@ -9,7 +9,7 @@ export const homeObjOne = {
   imgStart: "",
   lightTopLine: true,
   lightTextDesc: true,
-  buttonLabel: "Get Started",
+  buttonLabel: "Zobacz więcej",
   description:
     "Mój ojciec Franciszek Gutkowski urodził się w 1888 r. we wsi Wawrzyszew, 15 km od Radomia, w pobliżu Wolanowa i Guzowa. Franciszek przysposobił się na stangreta i woził panów wszędzie, gdzie mu kazali. Oprócz tego parał się tak jak ojciec stolarką i ciesielką.",
   description1:

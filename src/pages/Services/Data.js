@@ -8,7 +8,7 @@ export const homeObjOne = {
   headLine: "Unlimited Transactions with zero fees",
   description:
     "Get access to our exclusive diamond card that allows you to  send unlimited transactions without getting charged any fees",
-  buttonLabel: "Get Started",
+  buttonLabel: "Zobacz więcej",
   imgStart: "",
   img: img1,
   alt: "Credit Card",
