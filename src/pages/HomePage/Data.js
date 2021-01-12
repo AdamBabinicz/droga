@@ -11,7 +11,7 @@ export const homeObjOne = {
   lightTextDesc: true,
   buttonLabel: "Zobacz więcej",
   description:
-    "Mój ojciec Franciszek Gutkowski urodził się w 1888 r. we wsi Wawrzyszew, 15 km od Radomia, w pobliżu Wolanowa i Guzowa. Franciszek przysposobił się na stangreta i woził panów wszędzie, gdzie mu kazali. Oprócz tego parał się tak jak ojciec, stolarką i ciesielką.",
+    "Mój ojciec Franciszek Gutkowski urodził się w 1888 r. we wsi Wawrzyszów, 15 km od Radomia, w pobliżu Wolanowa i Guzowa. Franciszek przysposobił się na stangreta i woził panów wszędzie, gdzie mu kazali. Oprócz tego parał się tak jak ojciec, stolarką i ciesielką.",
   description1:
     "Franciszek podjął pracę w hucie szkła i pracował tam do jej likwidacji w 1930 r. Wówczas przenieśli się na ul. Mleczną na Zamłyniu. Tam urodzili się Witek, Józek, Rysiek i Edek. Ojciec pracował dorywczo jako stolarz i cieśla. W końcu znalazł stałą pracę przy budowie linii kolejowej Radom-Warszawa. Kierował pracą grupy więźniów, z którymi potrafił się porozumieć. Pamiętam, że wraz z ojcem byłem na otwarciu jednotorowej wówczas linii kolejowej z Radomia do Warszawy.",
   description2:
@@ -34,7 +34,7 @@ export const homeObjTwo = {
   lightTextDesc: false,
   buttonLabel: "Zobacz więcej",
   description:
-    "Franciszek szukał pracy w Warszawie i znalazł ją jako dozorca i stangret. W stolicy poznał swoją przyszłą żonę Annę z domu Mojską, która jako młodziutka dziewczyna wyjechała z domu mając przy sobie posag w postaci 30 złotych rubli. Pochodziła podobnie jak Franciszek z licznej rodziny, która prowadziła duże gospodarstwo we wsi Chełmno koło miejscowości Siedlicze. Umiała pisać i czytać. Świeżo upieczone małżeństwo zamieszkało w Warszawie na ul. Grzybowskiej. Tam urodziła się Zosia i Janka (1915 r.).",
+    "Franciszek szukał pracy w Warszawie i znalazł ją jako dozorca i stangret. W stolicy poznał swoją przyszłą żonę Annę z domu Mojską, która jako młodziutka dziewczyna wyjechała z domu mając przy sobie posag w postaci 30 złotych rubli. Pochodziła podobnie jak Franciszek z licznej rodziny, która prowadziła duże gospodarstwo we wsi Chełmno koło miejscowości Siedlicze. Umiała pisać i czytać. Świeżo upieczone małżeństwo zamieszkało w Warszawie na ul. Grzybowskiej. Tam urodziła się Janka (1915) i Zosia (1916).",
   description1:
     "Franciszek tęsknił za rodziną w Radomiu, zaś jego żona Anna za swoją w Chełmnie. W końcu w latach 1918-1920 wyjechali z Warszawy i znaleźli się w Radomiu. Anna nigdy nie miała poukładanych stosunków z rodziną ojca. W pierwszych dniach wojny w 1939 r. samoloty niemieckie zbombardowały nasz dom przy ul. Mlecznej. Nie mieliśmy, gdzie mieszkać, także Zosia, która po zmobilizowaniu jej męża, wraz z Adasiem i Władkiem przebywała z nami.",
   description2:
@@ -43,7 +43,7 @@ export const homeObjTwo = {
     "Najgorsze czasy przypadają na okres światowego kryzysu gospodarczego w latach 1925-1933. To była walka o każdy dzień przeżycia. Nie zawsze mieliśmy chleb, który był zamykany na klucz i wydzielany każdemu.",
   headLine: "Mapa życiowa matki",
   lightText: false,
-  topLine: "Anna z d. Mojska",
+  topLine: "Anna z d. Mojska ✝1965",
   img: img2,
   alt: "Image",
   start: "true",
@@ -59,12 +59,12 @@ export const homeObjThree = {
   description:
     "Zosia i ojciec mieli kontakty z lewicowym podziemiem. W piwnicy przetrzymywali ulotki, gazetki i inne materiały propagandowe, które odbierali potajemnie łącznicy.",
   description1:
-    "Wawrzek, jej mąż po wybuchu wojny został powołany do Korpusu Ochrony Pogranicza na granicy wschodniej; dostał się do niewoli niemieckiej i przebywał w obozie dla jeńców wojennych, po przekazaniu go przez Rosjan.",
+    "Wawrzek (1905 - 1983), jej mąż po wybuchu wojny został powołany do Korpusu Ochrony Pogranicza na granicy wschodniej; dostał się do niewoli niemieckiej i przebywał w obozie dla jeńców wojennych, po przekazaniu go przez Rosjan.",
   description2:
     "Po powrocie Wawrzka, jeszcze przed zakończeniem wojny, sytuacja się zmieniła, ponieważ Bieńkowie zamieszkali oddzielnie. Rodzice zostali sami.",
   headLine: "Mapa życiowa Zosi",
   lightText: true,
-  topLine: "Zosia (moja starsza siostra)",
+  topLine: "Zosia (moja starsza siostra) 1916 - 1996",
   img: img3,
   alt: "Image",
   start: "",
