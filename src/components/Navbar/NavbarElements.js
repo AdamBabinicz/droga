@@ -32,6 +32,11 @@ export const NavLogo = styled(Link)`
   font-size: 2rem;
   display: flex;
   align-items: center;
+  transition: color 0.3s ease;
+
+  &:hover {
+    color: #858585;
+  }
 `;
 
 export const NavIcon = styled(FaSitemap)`
@@ -106,6 +111,11 @@ export const NavLinks = styled(Link)`
   text-decoration: none;
   padding: 0.5rem 1rem;
   height: 100%;
+  transition: color 0.3s ease;
+
+  &:hover {
+    color: #858585;
+  }
 
   @media screen and (max-width: 960px) {
     text-align: center;
