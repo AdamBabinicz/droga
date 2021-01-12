@@ -40,6 +40,7 @@ export const FooterLinksContainer = styled.div`
   max-width: 1000px;
   display: flex;
   justify-content: center;
+
   @media screen and (max-width: 820px) {
     padding-top: 32px;
   }
@@ -89,12 +90,13 @@ export const SocialMedia = styled.section`
 `;
 
 export const SocialMediaWrap = styled.div`
-  display: flex;
   justify-content: space-between;
   align-items: center;
+  display: flex;
   width: 90%;
   max-width: 1000px;
   margin: 40px auto 0 auto;
+
   @media screen and (max-width: 820px) {
     flex-direction: column;
   }
@@ -128,9 +130,9 @@ export const WebsiteRights = styled.small`
 
 export const SocialIcons = styled.div`
   display: flex;
-  justify-content: center;
+  /* justify-content: flex-end; */
   align-items: center;
-  width: 240px;
+  /* width: 240px; */
 `;
 
 export const SocialIconLink = styled.a`
