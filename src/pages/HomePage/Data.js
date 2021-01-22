@@ -34,13 +34,15 @@ export const homeObjTwo = {
   lightTextDesc: false,
   buttonLabel: "Zobacz więcej",
   description:
-    "Franciszek szukał pracy w Warszawie i znalazł ją jako dozorca i stangret. W stolicy poznał swoją przyszłą żonę Annę z domu Mojską, która jako młodziutka dziewczyna wyjechała z domu mając przy sobie posag w postaci 30 złotych rubli. Pochodziła podobnie jak Franciszek z licznej rodziny, która prowadziła duże gospodarstwo we wsi Chełmno koło miejscowości Siedlicze. Umiała pisać i czytać. Świeżo upieczone małżeństwo zamieszkało w Warszawie na ul. Grzybowskiej. Tam urodziła się Janka (1915) i Zosia (1916).",
+    "Franciszek szukał pracy w Warszawie i znalazł ją jako dozorca i stangret. W stolicy poznał swoją przyszłą żonę Annę z domu Mojską, która jako młodziutka dziewczyna wyjechała z domu mając przy sobie posag w postaci 30 złotych rubli*. Pochodziła podobnie jak Franciszek z licznej rodziny, która prowadziła duże gospodarstwo we wsi Chełmno koło miejscowości Siedlicze. Umiała pisać i czytać. Świeżo upieczone małżeństwo zamieszkało w Warszawie na ul. Grzybowskiej. Tam urodziła się Janka (1915) i Zosia (1916).",
   description1:
     "Franciszek tęsknił za rodziną w Radomiu, zaś jego żona Anna za swoją w Chełmnie. W końcu w latach 1918-1920 wyjechali z Warszawy i znaleźli się w Radomiu. Anna nigdy nie miała poukładanych stosunków z rodziną ojca. W pierwszych dniach wojny w 1939 r. samoloty niemieckie zbombardowały nasz dom przy ul. Mlecznej. Nie mieliśmy, gdzie mieszkać, także Zosia, która po zmobilizowaniu jej męża, wraz z Adasiem i Władkiem przebywała z nami.",
   description2:
     "Po wojnie matka Anna i ojciec Franciszek to osoby, które bez reszty oddawały się rodzinie, dzieciom i wnukom. Mimo wielkiej biedy i nędzy, które panowały powszechnie w Polsce targanej zawieruchami historycznymi, starali się zapewnić byt materialny rodzinie.",
   description3:
     "Najgorsze czasy przypadają na okres światowego kryzysu gospodarczego w latach 1925-1933. To była walka o każdy dzień przeżycia. Nie zawsze mieliśmy chleb, który był zamykany na klucz i wydzielany każdemu.",
+  description4:
+    "*Ceny z lat 1900-1910 na terenie Kongresówki: funt (401,5 g) chleba czarnego - 3 kopiejki, pud (16,38 kg) żyta - 74 kopiejki, pud pszenicy - 93 kopiejki, pud wieprzowiny - 4,34 rubla, koń roboczy - 49 rubli, pokój w Hotelu Europejskim - 3 ruble, obiad w restauracji dworcowej kl. I- 1,2-1,5 rubla, dniówka robotnika rolnego z własnym sprzężajem bez wyżywienia 1 - 1,1 rubla. Rubel od 1897 r. stał się walutą opartą na standardzie złota (0,71 g Au) i był warty: 0,106 funta szterlinga, 0,51 USD, 2,05 marki niemieckiej, 2,55 korony austro węgierskiej.",
   headLine: "Mapa życiowa matki",
   lightText: false,
   topLine: "Anna z d. Mojska ✝1965",

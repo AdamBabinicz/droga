@@ -58,8 +58,8 @@ export const homeObjFour = {
   lightTopLine: true,
   lightTextDesc: true,
   primary: true,
-  topLine: "Bracia przyrodni mojego ojca",
-  headLine: "Tokarscy",
+  topLine: "Brat rodzony i przyrodni mojego ojca",
+  headLine: "Stanisław i Janek",
   description:
     "W początkach XX wieku starsi bracia opuścili swoją ojcowiznę w poszukiwaniu pracy. Stanisław Gutkowski został wcielony do armii carskiej i służył na dalekim wschodzie w Charbinie. Brał udział w wojnie japońsko-rosyjskiej w 1905 r.",
   description1:

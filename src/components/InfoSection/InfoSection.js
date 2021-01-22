@@ -25,6 +25,7 @@ const InfoSection = ({
   description1,
   description2,
   description3,
+  description4,
   headLine,
   lightText,
   topLine,
@@ -50,6 +51,9 @@ const InfoSection = ({
                 </Subtitle>
                 <Subtitle lightTextDesc={lightTextDesc}>
                   {description3}
+                </Subtitle>
+                <Subtitle lightTextDesc={lightTextDesc}>
+                  {description4}
                 </Subtitle>
                 <Link to={mapa} target="_blank">
                   <Button big fontBig primary={primary}>
