@@ -1,17 +1,18 @@
-import img1 from "../../images/19.jpg";
+import img1 from "../../images/21.jpg";
+import img2 from "../../images/23.jpg";
 
 export const homeObjOne = {
   lightBg: false,
   lightText: true,
   lightTopLine: true,
   lightTextDesc: true,
-  topLine: "Sign up Today",
-  headLine: "Join today to receive an exclusive offer",
-  description:
-    "Get access to our exclusive diamond king package. Limited quantity available.",
-  buttonLabel: "Okupacja",
+  primary: true,
+  topLine: "okupacja",
+  headLine: "Gdy wybuchła II W. Ś. miałem 14 lat",
+  description: "Zdjęcie z tego okresu.",
+  buttonLabel: "Zobacz więcej",
   imgStart: "",
-  img: require("../../images/svg-1.svg"),
+  img: img2,
   alt: "Credit Card",
 };
 

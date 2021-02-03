@@ -2,6 +2,7 @@ import img1 from "../../images/1.jpg";
 import img2 from "../../images/2.jpg";
 import img3 from "../../images/6.jpg";
 import img4 from "../../images/7.jpg";
+import img5 from "../../images/22.jpg";
 
 export const homeObjOne = {
   lightBg: false,
@@ -58,6 +59,26 @@ export const homeObjThree = {
   lightTopLine: true,
   lightTextDesc: true,
   buttonLabel: "Zobacz więcej",
+  // description: "aaa",
+  // description1: "bbb",
+  // description2: "ccc",
+  // description3: "ddd",
+  // description4: "eee",
+  headLine: "Lata wielkiego kryzysu światowego",
+  lightText: true,
+  topLine: "Rysiek, Anna (matka), Edek i Józek",
+  img: img5,
+  alt: "Image",
+  start: "",
+};
+
+export const homeObjFour = {
+  lightBg: true,
+  primary: true,
+  imgStart: "start",
+  lightTopLine: false,
+  lightTextDesc: false,
+  buttonLabel: "Zobacz więcej",
   description:
     "Zosia i ojciec mieli kontakty z lewicowym podziemiem. W piwnicy przetrzymywali ulotki, gazetki i inne materiały propagandowe, które odbierali potajemnie łącznicy.",
   description1:
@@ -65,14 +86,14 @@ export const homeObjThree = {
   description2:
     "Po powrocie Wawrzka, jeszcze przed zakończeniem wojny, sytuacja się zmieniła, ponieważ Bieńkowie zamieszkali oddzielnie. Rodzice zostali sami.",
   headLine: "Mapa życiowa Zosi",
-  lightText: true,
+  lightText: false,
   topLine: "Zosia (moja starsza siostra) 1916 - 1996",
   img: img3,
   alt: "Image",
   start: "",
 };
 
-export const homeObjFour = {
+export const homeObjFive = {
   lightBg: false,
   primary: true,
   imgStart: "start",

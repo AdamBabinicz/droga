@@ -1,6 +1,6 @@
 import img1 from "../../images/16.jpg";
 import img2 from "../../images/17.jpg";
-import img3 from "../../images/18.jpg";
+import img3 from "../../images/26.jpg";
 
 // export const homeObjOne = {
 //   lightBg: true,

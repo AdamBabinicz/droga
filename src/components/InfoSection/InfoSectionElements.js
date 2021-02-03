@@ -68,17 +68,26 @@ export const Subtitle = styled.p`
 export const ImgWrapper = styled.div`
   max-width: 555px;
   display: flex;
+  flex-direction: column;
   justify-content: ${({ start }) => (start ? "flex-start" : "flex-end")};
 `;
 
 export const Img = styled.img`
-  padding-right: 0;
+  /* padding-right: 0; */
   border: 0;
   max-width: 100%;
   vertical-align: middle;
   display: inline-block;
+  margin-top: 2rem;
+  /* display: grid;
+  place-items: center; */
 
-  @media screen and (max-width: 768px) {
-    max-height: 500px;
+  /* @media screen and (max-width: 768px) {
+    max-height: 400px;
+  } */
+
+  @media only screen and (max-device-width: 768px) {
+    max-height: 400px;
+    /* aspect-ratio: 5/2; */
   }
 `;
