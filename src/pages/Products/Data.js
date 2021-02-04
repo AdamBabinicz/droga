@@ -65,7 +65,7 @@ export const homeObjFour = {
   description1:
     "Do Polski wrócił już po odzyskaniu niepodległości, po odsłużeniu 15 lat. Władał dobrze językiem rosyjskim i tureckim. Ożenił się i osiadł w Kierzkowie k. Radomia. Miał dużo dzieci. Posiadał małe gospodarstwo rolne, a ponadto trochę handlował mlekiem, masłem i wypiekanym przez siebie chlebem razowym. Zapamiętałem go jako człowieka bardzo rozmownego i towarzyskiego.",
   description2:
-    "Janek Tokarski wyjechał do Rosji Radzieckiej i wszelki ślad po nim zaginął. Mimo podejmowanych prób odnalezienia go, nie udało się ustalić jego miejsca pobytu, ani czy żyje.",
+    "Janek Tokarski (na zdjęciu) wyjechał do Rosji Radzieckiej i wszelki ślad po nim zaginął. Mimo podejmowanych prób odnalezienia go, nie udało się ustalić jego miejsca pobytu, ani czy żyje.",
   buttonLabel: "Czytaj więcej",
   imgStart: "",
   img: img3,
