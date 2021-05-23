@@ -39,7 +39,7 @@ export const homeObjThree = {
   primary: true,
   topLine:
     "W czasie okupacji na barkach ojca i matki byli Józek, Edek, Rysiek, Zosia, Adaś i Władek",
-  headLine: "Radom, ul. Żeromskiego (Reichsstrasse)",
+  headLine: "Niemcy hitlerowskie - pobyt na robotach",
   description:
     "Ojciec pracował przy wojsku niemieckim i na jego potrzeby wykonywał przedmioty z drewna: stoły i inne. Dzięki temu przynosił codziennie do domu chleb, masło i inne jedzenie. W pomieszczeniach, gdzie kwaterowali Niemcy znajdowały się zgromadzone do spalenia książki z bibliotek. Ojcu udało się wybrać i przemycić do domu kilka książek z utworami Sienkiewicza, Mickiewicza i innych autorów.",
   description1:

@@ -110,7 +110,7 @@ export const homeObjFive = {
     "Z Basią Dzik wzieliśmy ślub cywilny 2 grudnia 1949 r. Od tego momentu staliśmy się osobami samodzielnymi i decyzji tej nie żałuję do dziś.",
   headLine: "Mapa życiowa Józka",
   lightText: true,
-  topLine: "Józef (ja na zdjęciu z siostrą Zosią)",
+  topLine: "Józef (ja na zdjęciu z siostrą Zosią) 1925 - 2021",
   img: img4,
   alt: "Image",
   start: "true",
