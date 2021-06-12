@@ -5,6 +5,7 @@ import {
   InfoRow,
   InfoColumn,
   TextWrapper,
+  Text,
   TopLine,
   Heading,
   Subtitle,
@@ -21,6 +22,7 @@ const InfoSection = ({
   lightTopLine,
   lightTextDesc,
   buttonLabel,
+  buttonLabel1,
   description,
   description1,
   description2,
@@ -32,6 +34,7 @@ const InfoSection = ({
   img,
   alt,
   start,
+  link,
 }) => {
   return (
     <>
@@ -55,11 +58,29 @@ const InfoSection = ({
                 <Subtitle lightTextDesc={lightTextDesc}>
                   {description4}
                 </Subtitle>
-                <Link to={mapa} target="_blank">
+                <Link to={mapa} target="_blank" rel="noopener noreferrer">
                   <Button big fontBig primary={primary}>
                     {buttonLabel}
                   </Button>
                 </Link>
+                <Text>
+                  <Link
+                    to={link}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{
+                      position: "absolute",
+                      left: "4rem",
+                      top: "-2rem",
+                      fontSize: "3.5rem",
+                      background: "transparent",
+                      textDecoration: "none",
+                      color: "#ccc",
+                    }}
+                  >
+                    <span>{buttonLabel1}</span>
+                  </Link>
+                </Text>
               </TextWrapper>
             </InfoColumn>
             <InfoColumn>

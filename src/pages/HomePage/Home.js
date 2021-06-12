@@ -7,7 +7,6 @@ import {
   homeObjFive,
 } from "./Data";
 import { InfoSection, Pricing } from "../../components";
-// import Pricing from "../../components/Pricing/Pricing";
 
 const Home = () => {
   return (

@@ -47,6 +47,8 @@ export const homeObjThree = {
   description1:
     "Babcia Tokarska kupiła w Radomiu drewniany dom wraz z placem na ul. Sapowej, który stoi do dziś. Ojciec nasz często bywał w tym domu w odwiedzinach i dużo rozmawiał z Romanem, którego lubił najbardziej. Roman był szewcem i dobrze znał przyszłego męża Zosi.",
   buttonLabel: "Czytaj więcej",
+  buttonLabel1: "🕯",
+  link: "//37.28.154.108/waclaw_radom/fotografie/9349.jpg",
   imgStart: "start",
   img: img2,
   alt: "babcia",

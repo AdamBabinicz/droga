@@ -72,6 +72,7 @@ const Footer = () => {
             <FooterLink
               to="//www.facebook.com/profile.php?id=100012315634079"
               target="_blank"
+              rel="noopener noreferrer"
               aria-label="Facebook"
               rel="noopener noreferrer"
             >
@@ -93,6 +94,7 @@ const Footer = () => {
             <SocialIconLink
               href="//www.facebook.com/profile.php?id=100012315634079"
               target="_blank"
+              rel="noopener noreferrer"
               aria-label="Facebook"
               rel="noopener noreferrer"
             >

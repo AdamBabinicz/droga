@@ -7,10 +7,13 @@ import img5 from "../../images/22.jpg";
 export const homeObjOne = {
   lightBg: false,
   primary: true,
+  secondary: true,
   imgStart: "",
   lightTopLine: true,
   lightTextDesc: true,
   buttonLabel: "Zobacz więcej",
+  buttonLabel1: "🕯",
+  link: "//37.28.154.108/waclaw_radom/fotografie/18449.jpg",
   description:
     "Mój ojciec Franciszek Gutkowski urodził się w 1888 r. we wsi Wawrzyszów, 15 km od Radomia, w pobliżu Wolanowa i Guzowa. Franciszek przysposobił się na stangreta i woził panów wszędzie, gdzie mu kazali. Oprócz tego parał się tak jak ojciec, stolarką i ciesielką.",
   description1:
@@ -34,6 +37,8 @@ export const homeObjTwo = {
   lightTopLine: false,
   lightTextDesc: false,
   buttonLabel: "Zobacz więcej",
+  link: "//37.28.154.108/waclaw_radom/fotografie/18449.jpg",
+  buttonLabel1: "🕯",
   description:
     "Franciszek szukał pracy w Warszawie i znalazł ją jako dozorca i stangret. W stolicy poznał swoją przyszłą żonę Annę z domu Mojską, która jako młodziutka dziewczyna wyjechała z domu mając przy sobie posag w postaci 30 złotych rubli*. Pochodziła podobnie jak Franciszek z licznej rodziny, która prowadziła duże gospodarstwo we wsi Chełmno koło miejscowości Siedlicze. Umiała pisać i czytać. Świeżo upieczone małżeństwo zamieszkało w Warszawie na ul. Grzybowskiej. Tam urodziła się Janka (1915) i Zosia (1916).",
   description1:
@@ -46,7 +51,7 @@ export const homeObjTwo = {
     "*Ceny z lat 1900-1910 na terenie Kongresówki: funt (401,5 g) chleba czarnego - 3 kopiejki, pud (16,38 kg) żyta - 74 kopiejki, pud pszenicy - 93 kopiejki, pud wieprzowiny - 4,34 rubla, koń roboczy - 49 rubli, pokój w Hotelu Europejskim - 3 ruble, obiad w restauracji dworcowej kl. I- 1,2-1,5 rubla, dniówka robotnika rolnego z własnym sprzężajem bez wyżywienia 1 - 1,1 rubla. Rubel od 1897 r. stał się walutą opartą na standardzie złota (0,71 g Au) i był warty: 0,106 funta szterlinga, 0,51 USD, 2,05 marki niemieckiej, 2,55 korony austro węgierskiej.",
   headLine: "Mapa życiowa matki",
   lightText: false,
-  topLine: "Anna z d. Mojska ✝1965",
+  topLine: "Anna z d. Mojska ✝ 1965",
   img: img2,
   alt: "Image",
   start: "true",
@@ -59,6 +64,8 @@ export const homeObjThree = {
   lightTopLine: true,
   lightTextDesc: true,
   buttonLabel: "Zobacz więcej",
+  buttonLabel1: "🕯",
+  link: "//grobonet.cmk.radom.pl/grobonet/start.php?id=detale&idg=46720&inni=0&cinki=0",
   // description: "aaa",
   // description1: "bbb",
   // description2: "ccc",
@@ -79,6 +86,8 @@ export const homeObjFour = {
   lightTopLine: false,
   lightTextDesc: false,
   buttonLabel: "Zobacz więcej",
+  buttonLabel1: "🕯",
+  link: "//grobonet.cmk.radom.pl/grobonet/start.php?id=detale&idg=46515&inni=0&cinki=1",
   description:
     "Zosia i ojciec mieli kontakty z lewicowym podziemiem. W piwnicy przetrzymywali ulotki, gazetki i inne materiały propagandowe, które odbierali potajemnie łącznicy.",
   description1:
@@ -87,7 +96,7 @@ export const homeObjFour = {
     "Po powrocie Wawrzka, jeszcze przed zakończeniem wojny, sytuacja się zmieniła, ponieważ Bieńkowie zamieszkali oddzielnie. Rodzice zostali sami.",
   headLine: "Mapa życiowa Zosi",
   lightText: false,
-  topLine: "Zosia (moja starsza siostra) 1916 - 1996",
+  topLine: "Zosia (moja starsza siostra) ✝ 1916 - 1996",
   img: img3,
   alt: "Image",
   start: "",
@@ -100,6 +109,8 @@ export const homeObjFive = {
   lightTopLine: true,
   lightTextDesc: true,
   buttonLabel: "Zobacz więcej",
+  buttonLabel1: "🕯",
+  link: "//grobonet.cmk.radom.pl/grobonet/start.php?id=detale&idg=88359&inni=0&cinki=0",
   description:
     "W październiku 1945 r. wróciłem z Niemiec; Edek również zdecydował się na powrót. Nie było pracy ani żywności, jedynie nadzieja na lepsze jutro.",
   description1:
@@ -110,7 +121,7 @@ export const homeObjFive = {
     "Z Basią Dzik wzieliśmy ślub cywilny 2 grudnia 1949 r. Od tego momentu staliśmy się osobami samodzielnymi i decyzji tej nie żałuję do dziś.",
   headLine: "Mapa życiowa Józka",
   lightText: true,
-  topLine: "Józef (ja na zdjęciu z siostrą Zosią) 1925 - 2021",
+  topLine: "Józef (ja na zdjęciu z siostrą Zosią) ✝ 1925 - 2021",
   img: img4,
   alt: "Image",
   start: "true",

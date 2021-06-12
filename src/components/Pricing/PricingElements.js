@@ -98,7 +98,17 @@ export const PricingCardIcon = styled.div`
 
 export const PricingCardPlan = styled.h3`
   margin-bottom: 5px;
-  font-size: 24px;
+  font-size: 20px;
+
+  a {
+    color: #fff;
+    text-decoration: none;
+    transition: all 0.3s;
+
+    :hover {
+      color: #ccc;
+    }
+  }
 `;
 
 export const PricingCardCost = styled.h4`

@@ -41,6 +41,24 @@ export const TextWrapper = styled.div`
   }
 `;
 
+export const Text = styled.span`
+  position: relative;
+
+  span {
+    transition: color 0.3s ease;
+  }
+
+  span:hover {
+    color: #a9b3c1;
+  }
+  @media screen and (max-width: 780px) {
+    display: flex;
+    flex-direction: column;
+    margin-top: 2rem;
+    left: 31%;
+  }
+`;
+
 export const TopLine = styled.div`
   color: ${({ lightTopLine }) =>
     lightTopLine ? "rgba(255, 255, 255, 0.911)" : "#353535"};
