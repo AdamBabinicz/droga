@@ -51,7 +51,7 @@ export const Text = styled.span`
 
     @media screen and (max-width: 780px) {
       top: 5rem;
-      left: 1.4em;
+      left: 1em;
     }
   }
 
