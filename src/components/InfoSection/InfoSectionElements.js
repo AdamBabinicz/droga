@@ -45,17 +45,18 @@ export const Text = styled.span`
   position: relative;
 
   span {
+    position: absolute;
+    left: 20rem;
     transition: color 0.3s ease;
+
+    @media screen and (max-width: 780px) {
+      top: 5rem;
+      left: 2.4em;
+    }
   }
 
   span:hover {
     color: #a9b3c1;
-  }
-  @media screen and (max-width: 780px) {
-    display: flex;
-    flex-direction: column;
-    margin-top: 2rem;
-    left: 31%;
   }
 `;
 
@@ -90,10 +91,16 @@ export const ImgWrapper = styled.div`
   justify-content: ${({ start }) => (start ? "flex-start" : "flex-end")};
 `;
 
+export const ImgEnd = styled.img`
+  width: 100%;
+  max-width: 400px;
+  margin-top: 2rem;
+`;
+
 export const Img = styled.img`
   /* padding-right: 0; */
   border: 0;
-  max-width: 100%;
+  width: 100%;
   vertical-align: middle;
   display: inline-block;
   margin-top: 2rem;

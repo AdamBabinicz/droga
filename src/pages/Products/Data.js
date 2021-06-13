@@ -1,6 +1,7 @@
 import img1 from "../../images/16.jpg";
 import img2 from "../../images/17.jpg";
 import img3 from "../../images/26.jpg";
+import img4 from "../../images/31.jpg";
 
 // export const homeObjOne = {
 //   lightBg: true,
@@ -48,7 +49,10 @@ export const homeObjThree = {
     "Babcia Tokarska kupiła w Radomiu drewniany dom wraz z placem na ul. Sapowej, który stoi do dziś. Ojciec nasz często bywał w tym domu w odwiedzinach i dużo rozmawiał z Romanem, którego lubił najbardziej. Roman był szewcem i dobrze znał przyszłego męża Zosi.",
   buttonLabel: "Czytaj więcej",
   buttonLabel1: "🕯",
-  link: "//37.28.154.108/waclaw_radom/fotografie/9349.jpg",
+  desc: "7A/4/8,",
+  cemetery: "Cmentarz Parafialny św. Wacława w Radomiu",
+  grave: "grób 9349",
+  image: img4,
   imgStart: "start",
   img: img2,
   alt: "babcia",

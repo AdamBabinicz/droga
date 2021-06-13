@@ -3,6 +3,7 @@ import img2 from "../../images/2.jpg";
 import img3 from "../../images/6.jpg";
 import img4 from "../../images/7.jpg";
 import img5 from "../../images/22.jpg";
+import img6 from "../../images/30.jpg";
 
 export const homeObjOne = {
   lightBg: false,
@@ -13,7 +14,10 @@ export const homeObjOne = {
   lightTextDesc: true,
   buttonLabel: "Zobacz więcej",
   buttonLabel1: "🕯",
-  link: "//37.28.154.108/waclaw_radom/fotografie/18449.jpg",
+  desc: "10a/23/17, ",
+  cemetery: "Cmentarz Parafialny św. Wacława w Radomiu",
+  grave: "grób 18449",
+  image: img6,
   description:
     "Mój ojciec Franciszek Gutkowski urodził się w 1888 r. we wsi Wawrzyszów, 15 km od Radomia, w pobliżu Wolanowa i Guzowa. Franciszek przysposobił się na stangreta i woził panów wszędzie, gdzie mu kazali. Oprócz tego parał się tak jak ojciec, stolarką i ciesielką.",
   description1:
@@ -37,7 +41,10 @@ export const homeObjTwo = {
   lightTopLine: false,
   lightTextDesc: false,
   buttonLabel: "Zobacz więcej",
-  link: "//37.28.154.108/waclaw_radom/fotografie/18449.jpg",
+  desc: "10a/23/17, ",
+  cemetery: "Cmentarz Parafialny św. Wacława w Radomiu",
+  grave: "grób 18449",
+  image: img6,
   buttonLabel1: "🕯",
   description:
     "Franciszek szukał pracy w Warszawie i znalazł ją jako dozorca i stangret. W stolicy poznał swoją przyszłą żonę Annę z domu Mojską, która jako młodziutka dziewczyna wyjechała z domu mając przy sobie posag w postaci 30 złotych rubli*. Pochodziła podobnie jak Franciszek z licznej rodziny, która prowadziła duże gospodarstwo we wsi Chełmno koło miejscowości Siedlicze. Umiała pisać i czytać. Świeżo upieczone małżeństwo zamieszkało w Warszawie na ul. Grzybowskiej. Tam urodziła się Janka (1915) i Zosia (1916).",
@@ -65,12 +72,10 @@ export const homeObjThree = {
   lightTextDesc: true,
   buttonLabel: "Zobacz więcej",
   buttonLabel1: "🕯",
-  link: "//grobonet.cmk.radom.pl/grobonet/start.php?id=detale&idg=46720&inni=0&cinki=0",
-  // description: "aaa",
-  // description1: "bbb",
-  // description2: "ccc",
-  // description3: "ddd",
-  // description4: "eee",
+  desc: "10a/23/17, ",
+  cemetery: "Cmentarz Komunalny w Radomiu",
+  grave: "grób 18449",
+  image: img6,
   headLine: "Lata wielkiego kryzysu światowego",
   lightText: true,
   topLine: "Rysiek, Anna (matka), Edek i Józek",
@@ -87,7 +92,10 @@ export const homeObjFour = {
   lightTextDesc: false,
   buttonLabel: "Zobacz więcej",
   buttonLabel1: "🕯",
-  link: "//grobonet.cmk.radom.pl/grobonet/start.php?id=detale&idg=46515&inni=0&cinki=1",
+  desc: "10a/23/17, ",
+  cemetery: "Cmentarz Komunalny w Radomiu",
+  grave: "grób 18449",
+  image: img6,
   description:
     "Zosia i ojciec mieli kontakty z lewicowym podziemiem. W piwnicy przetrzymywali ulotki, gazetki i inne materiały propagandowe, które odbierali potajemnie łącznicy.",
   description1:
@@ -110,7 +118,10 @@ export const homeObjFive = {
   lightTextDesc: true,
   buttonLabel: "Zobacz więcej",
   buttonLabel1: "🕯",
-  link: "//grobonet.cmk.radom.pl/grobonet/start.php?id=detale&idg=88359&inni=0&cinki=0",
+  desc: "10a/23/17, ",
+  cemetery: "Cmentarz Komunalny w Radomiu",
+  grave: "grób 18449",
+  image: img6,
   description:
     "W październiku 1945 r. wróciłem z Niemiec; Edek również zdecydował się na powrót. Nie było pracy ani żywności, jedynie nadzieja na lepsze jutro.",
   description1:

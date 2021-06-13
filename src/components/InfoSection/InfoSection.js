@@ -1,4 +1,5 @@
-import React from "react";
+import { useState } from "react";
+import Popup from "../../components/Popup";
 import { Link } from "react-router-dom";
 import {
   InfoSec,
@@ -11,6 +12,7 @@ import {
   Subtitle,
   ImgWrapper,
   Img,
+  ImgEnd,
 } from "./InfoSectionElements";
 import { Container, Button } from "../../globalStyles";
 import mapa from "../../mapa.pdf";
@@ -34,8 +36,13 @@ const InfoSection = ({
   img,
   alt,
   start,
-  link,
+  desc,
+  cemetery,
+  grave,
+  image,
 }) => {
+  const [buttonPopup, setButtonPopup] = useState(false);
+
   return (
     <>
       <InfoSec lightBg={lightBg}>
@@ -58,16 +65,13 @@ const InfoSection = ({
                 <Subtitle lightTextDesc={lightTextDesc}>
                   {description4}
                 </Subtitle>
-                <Link to={mapa} target="_blank" rel="noopener noreferrer">
-                  <Button big fontBig primary={primary}>
-                    {buttonLabel}
-                  </Button>
-                </Link>
                 <Text>
+                  <Link to={mapa} target="_blank" rel="noopener noreferrer">
+                    <Button big fontBig primary={primary}>
+                      {buttonLabel}
+                    </Button>
+                  </Link>
                   <Link
-                    to={link}
-                    target="_blank"
-                    rel="noopener noreferrer"
                     style={{
                       position: "absolute",
                       left: "4rem",
@@ -78,10 +82,18 @@ const InfoSection = ({
                       color: "#ccc",
                     }}
                   >
-                    <span>{buttonLabel1}</span>
+                    <span onClick={() => setButtonPopup(true)}>
+                      {buttonLabel1}
+                    </span>
                   </Link>
                 </Text>
               </TextWrapper>
+              <Popup trigger={buttonPopup} setTrigger={setButtonPopup}>
+                <h3>{cemetery}</h3>
+                <p>{desc}</p>
+                <p>{grave}</p>
+                <ImgEnd src={image} alt={alt} />
+              </Popup>
             </InfoColumn>
             <InfoColumn>
               <ImgWrapper start={start}>
