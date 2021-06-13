@@ -26,6 +26,10 @@ export const Button = styled.button`
   position: absolute;
   top: 16px;
   right: 16px;
+  cursor: pointer;
+  border: none;
+  font-size: 2rem;
+  background: transparent;
 
   img {
     max-width: 100%;
