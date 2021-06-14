@@ -4,6 +4,9 @@ import img3 from "../../images/6.jpg";
 import img4 from "../../images/7.jpg";
 import img5 from "../../images/22.jpg";
 import img6 from "../../images/30.jpg";
+import img7 from "../../images/32.jpg";
+import img8 from "../../images/33.jpg";
+import img9 from "../../images/34.jpg";
 
 export const homeObjOne = {
   lightBg: false,
@@ -72,10 +75,10 @@ export const homeObjThree = {
   lightTextDesc: true,
   buttonLabel: "Zobacz więcej",
   buttonLabel1: "🕯",
-  desc: "10a/23/17, ",
+  desc: "C9a/7,",
   cemetery: "Cmentarz Komunalny w Radomiu",
-  grave: "grób 18449",
-  image: img6,
+  grave: "grób 29",
+  image: img7,
   headLine: "Lata wielkiego kryzysu światowego",
   lightText: true,
   topLine: "Rysiek, Anna (matka), Edek i Józek",
@@ -92,10 +95,10 @@ export const homeObjFour = {
   lightTextDesc: false,
   buttonLabel: "Zobacz więcej",
   buttonLabel1: "🕯",
-  desc: "10a/23/17, ",
+  desc: "D10/4,",
   cemetery: "Cmentarz Komunalny w Radomiu",
-  grave: "grób 18449",
-  image: img6,
+  grave: "grób 7",
+  image: img8,
   description:
     "Zosia i ojciec mieli kontakty z lewicowym podziemiem. W piwnicy przetrzymywali ulotki, gazetki i inne materiały propagandowe, które odbierali potajemnie łącznicy.",
   description1:
@@ -118,10 +121,10 @@ export const homeObjFive = {
   lightTextDesc: true,
   buttonLabel: "Zobacz więcej",
   buttonLabel1: "🕯",
-  desc: "10a/23/17, ",
+  desc: "E5/8,",
   cemetery: "Cmentarz Komunalny w Radomiu",
-  grave: "grób 18449",
-  image: img6,
+  grave: "grób 26",
+  image: img9,
   description:
     "W październiku 1945 r. wróciłem z Niemiec; Edek również zdecydował się na powrót. Nie było pracy ani żywności, jedynie nadzieja na lepsze jutro.",
   description1:
