@@ -73,9 +73,6 @@ const InfoSection = ({
                   </Link>
                   <Link
                     style={{
-                      position: "absolute",
-                      left: "4rem",
-                      top: "-2rem",
                       fontSize: "3.5rem",
                       background: "transparent",
                       textDecoration: "none",

@@ -43,16 +43,15 @@ export const TextWrapper = styled.div`
 
 export const Text = styled.span`
   position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
 
+  @media screen and (max-width: 780px) {
+    flex-direction: column;
+  }
   span {
-    position: absolute;
-    left: 20rem;
     transition: color 0.3s ease;
-
-    @media screen and (max-width: 780px) {
-      top: 5rem;
-      left: 1em;
-    }
   }
 
   span:hover {
