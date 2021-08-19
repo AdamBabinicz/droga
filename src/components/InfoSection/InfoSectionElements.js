@@ -111,7 +111,7 @@ export const Img = styled.img`
   } */
 
   @media only screen and (max-device-width: 768px) {
-    height: 400px;
+    /* height: 400px; */
     /* aspect-ratio: 5/2; */
   }
 `;
