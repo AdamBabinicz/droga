@@ -74,7 +74,6 @@ const Footer = () => {
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Facebook"
-              rel="noopener noreferrer"
             >
               Facebook
             </FooterLink>
@@ -89,14 +88,15 @@ const Footer = () => {
             <SocialIcon />
             <SocialIcon1 onClick={toggleHome} />
           </SocialLogo>
-          <WebsiteRights>{new Date().getFullYear()}.</WebsiteRights>
+          <WebsiteRights>
+            Radom 2021 - {new Date().getFullYear()}.
+          </WebsiteRights>
           <SocialIcons>
             <SocialIconLink
               href="//www.facebook.com/profile.php?id=100012315634079"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Facebook"
-              rel="noopener noreferrer"
             >
               <FaFacebook />
             </SocialIconLink>
